@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./examen",
+        "./PROGRAMACION ORIENTADA A OBJETOS/TALLER POO/modulo",
+        "./Ejercicios Clase/Sesión Clase 5/modulos",
+        "./Ejercicios Clase/app/paquetes"
+    ]
+}
